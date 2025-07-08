@@ -25,6 +25,5 @@ Citations are displayed below the answer with:
 
 In a production environment, we would implement PDF.js or similar to scroll to the specific paragraph mentioned in the citation.
 
-## Screenshots
 
-[Insert screenshots here]
+
